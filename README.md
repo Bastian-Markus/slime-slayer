@@ -6,6 +6,9 @@
   This is my first try at making a game and was made in the tiny engine <a href="https://tic80.com/">TIC-80</a>. The goal was to study 2d horde survivor games like brotato and vampire survivors, which turned into this small game.
 </p>
 <p>
+  <strong>Attached you can find the code running the game (slime-slayer.js) and the exported windows game itself (slime-slayer.exe)</strong>
+</p>
+<p>
   This game has taught me many things, but before all the importance of working with classes, inheritance and constructors.
 </p>
 
