@@ -25,41 +25,45 @@
 <p>
   The
 </p>
-## Enemies
+<h3>Enemies</h3>
 
 - Crawler
 - Exploder
 
-## Waves
+<h3>Waves</h3>
 
 - Enemies spawn in intervals, with their numbers and strength increasing exponentially over time
 - Waves appear from the screens edges
 
-## Progression
+<h3>Progression</h3>
 
 The player progresses by collecting experience points, which are dropped by enemies. On reaching a level up, players get a randomly picked upgrade from below
 
 - Health
 - Speed
 - PickUpRange
-- Atk Dmg
-- Atk Area
-- Atk Speed
+- Attack Damage
+- Attack Area
+- Attack Speed
 
-## Collectibles
-
+<h3>Collectibles</h3>
+<p>Collectibles can be dropped by enemies with a certain chance</p>
 - Xp-orb
 - Heart
 - Magnet
 
-## UI
+<h3>UI</h3>
 
+- Game settings screen
+    - Asks the player to select his preferred input method
 - Start screen
+    - Explains the controls and shows a start hint
 - Game screen
-    - Interface overlay
+    - Game overlay
+        - Shows the game UI
     - Pause Overlay
         - Shows current player stats and continue hint
-    - Upgrade Menu
-        - Update scaling display
+    - Upgrade Overlay
+        - Shows 3 upgrade choices and menu navigation hints
 - Game over screen
     - Shows enemy kill score and retry hint
