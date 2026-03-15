@@ -21,7 +21,7 @@
   <li>and more...</li>
 </ul>
 
-<h2>Gameplay</h2>
+<h2>Game Elements</h2>
 
 <h3>Enemies</h3>
 
