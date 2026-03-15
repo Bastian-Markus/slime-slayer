@@ -6,18 +6,12 @@
   This is my first try at making a game and was made in the tiny engine <a href="https://tic80.com/">TIC-80</a>. The goal was to study 2d horde survivor games like brotato and vampire survivors, which turned into this small game.
 </p>
 <p>
-  My key takeaway from working on this project:
+  This game has taught me many things, but before all the importance of working with classes, inheritance and constructors.
 </p>
-<ul>
-  <li>Use classes and inheritance if possible</li>
-  <li>Build for maintainability and readability</li>
-  <li></li>
-  <li></li>
-</ul>
 
-<h2>TIC-80</h3>
+<h2>TIC-80</h2>
 <p>
-  TIC-80 intentionally comes with severe technical limitations. I intentionally picked TIC80 to minimize distraction and focus on learning the fundamentals of game development.
+  TIC-80 comes with several technical limitations listed below. I intentionally picked TIC80 to minimize distraction and focus on learning the fundamentals of game development.
 </p>
 <ul>
   <li><strong>Screen Resolution:</strong> 240 × 136 px</li>
@@ -26,3 +20,46 @@
   <li><strong>Audio:</strong> 4 channels</li>
   <li>and more...</li>
 </ul>
+
+<h2>Gameplay</h2>
+<p>
+  The
+</p>
+## Enemies
+
+- Crawler
+- Exploder
+
+## Waves
+
+- Enemies spawn in intervals, with their numbers and strength increasing exponentially over time
+- Waves appear from the screens edges
+
+## Progression
+
+The player progresses by collecting experience points, which are dropped by enemies. On reaching a level up, players get a randomly picked upgrade from below
+
+- Health
+- Speed
+- PickUpRange
+- Atk Dmg
+- Atk Area
+- Atk Speed
+
+## Collectibles
+
+- Xp-orb
+- Heart
+- Magnet
+
+## UI
+
+- Start screen
+- Game screen
+    - Interface overlay
+    - Pause Overlay
+        - Shows current player stats and continue hint
+    - Upgrade Menu
+        - Update scaling display
+- Game over screen
+    - Shows enemy kill score and retry hint
