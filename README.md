@@ -22,13 +22,13 @@
 </ul>
 
 <h2>Gameplay</h2>
-<p>
-  The
-</p>
+
 <h3>Enemies</h3>
 
 - Crawler
+    - Simple, slow and tanky, will try to damage the player on contact
 - Exploder
+    - Red, fast and explosive, will blow up if nearby the player
 
 <h3>Waves</h3>
 
