@@ -1,11 +1,11 @@
 <h1>Slime Slayer</h1>
-
-<p>This is my very first game, made in the tiny engine <a href="https://tic80.com/">TIC-80</a>.
+<p>
+  Slime slayer is a 2D horde survivor, in which a nameless knight fights endless waves of exponentially growing slime hordes.\nThis is my first proper try at making a game and was made in the tiny engine <a href="https://tic80.com/">TIC-80</a>. The goal was to study 2d horde survivor games like brotato and vampire survivors, which turned into this small game.
 </p>
 
-<h2>Why TIC-80?</h3>
+<h2>TIC-80</h3>
 <p>
-TIC-80 intentionally comes with severe technical limitations to mimic retro style game development. These limitations also helped me to focus on improving my programming skills, while learning how games work at a more basic level.
+  TIC-80 intentionally comes with severe technical limitations. I intentionally picked TIC80 to minimize distraction and focus on learning the fundamentals of game development.
 </p>
 <ul>
   <li><strong>Screen Resolution:</strong> 240 × 136 px</li>
