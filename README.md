@@ -37,20 +37,25 @@
 
 <h3>Progression</h3>
 
-The player progresses by collecting experience points, which are dropped by enemies. On reaching a level up, players get a randomly picked upgrade from below
-
-- Health
-- Speed
-- PickUpRange
-- Attack Damage
-- Attack Area
-- Attack Speed
+<p>
+  The player progresses by collecting experience points, which are dropped by enemies. On reaching a level up, players get a randomly picked upgrade from below
+</p>
+<ul>
+  <li>Health</li>
+  <li>Speed</li>
+  <li>Pickup Range</li>
+  <li>Attack Damage</li>
+  <li>Attack Area</li>
+  <li>Attack Speed</li>
+</ul>
 
 <h3>Collectibles</h3>
 <p>Collectibles can be dropped by enemies with a certain chance</p>
-- Xp-orb
-- Heart
-- Magnet
+<ul>
+  <li>Heart</li>
+  <li>XP-Orb</li>
+  <li>Magnet</li>
+</ul>
 
 <h3>UI</h3>
 
