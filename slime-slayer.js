@@ -1071,22 +1071,6 @@ const WaveHandler = {
 	}
 };
 
-class Wave {
-	constructor(types=["crawler"],amount=5,directions=["left"],duration=10) {
-		this.types = types;
-		this.amount = amount;
-		this.directions = directions;
-		this.duration = duration;
-		this.amountPerTick = this.amount / this.duration;
-	};
-
-	update() {
-		
-
-	 this.duration--;
-	};
-};
-
 function TIC() {
 	m = mouse();
 	switch (gameState) {
